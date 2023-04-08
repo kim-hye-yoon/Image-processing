@@ -1,0 +1,1 @@
+So sánh kết quả của các phương pháp
