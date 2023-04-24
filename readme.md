@@ -2,5 +2,7 @@
 ## Yêu cầu 
 Cài đặt môi trường
 + Python 
-+ Jupyter Notebook
++ Jupyter Notebook 
+## Thử nghiệm
+
  
