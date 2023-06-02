@@ -8,5 +8,3 @@ Cài đặt thư viện OpenCV Python
 ```
 pip install opencv-python
 ```
-
- 
